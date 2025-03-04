@@ -1,4 +1,5 @@
-speechrecognition
-openpyxl
-pandas
 streamlit
+pandas
+openpyxl
+SpeechRecognition
+pydub
