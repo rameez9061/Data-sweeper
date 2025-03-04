@@ -2,12 +2,10 @@ import streamlit as st
 import pandas as pd
 import os
 from io import BytesIO
-import smtplib
 import speech_recognition as sr
 from pandas_profiling import ProfileReport
 import streamlit.components.v1 as components
-from googleapiclient.discovery import build
-from google.oauth2 import service_account
+
 
 
 st.set_page_config(page_title="Data Sweeper", layout="wide")
