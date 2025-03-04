@@ -1,0 +1,4 @@
+speechrecognition
+openpyxl
+pandas
+streamlit
